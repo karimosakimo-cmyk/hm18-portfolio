@@ -1,4 +1,8 @@
-
+<a class="btn btn-primary"
+   href="https://www.facebook.com/"
+   target="_blank" rel="noopener noreferrer">
+  زُر فيسبوك ↗
+</a>
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
